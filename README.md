@@ -66,7 +66,6 @@ Primeros pasos en el lenguaje de programación Java.
 - Inclusión de un GIF o video: Insertar un GIF o video que muestre el funcionamiento del programa para ilustrar su proyecto.
 
 <br></br>
-## Ejercicio 01
 <p align="center">
   <img src="https://github.com/Orliluq/screenmatch-inmersion-java/assets/122529721/54a75f74-0af8-4fa5-b1b0-ae195849aff8"
 </p>
@@ -82,7 +81,6 @@ Primeros pasos en el lenguaje de programación Java.
 - Crear una calculadora de tiempo que te indique cuantos minutos necesitarás para hacer una maratón de tus películas favoritas el fin de semana y agregar una opción en el menú que me permita acceder a dicha función.
 
 <br></br>
-## Ejercicio 02
 <p align="center">
   <img src="https://github.com/Orliluq/screenmatch-inmersion-java/assets/122529721/eb449fb1-70a5-4a28-a3e1-6a0fa9dff8b1"
 </p>
